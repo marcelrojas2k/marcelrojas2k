@@ -7,6 +7,8 @@
 - [Discord](https://www.discord.com/) (Soon)
 - [Flickr](http://www.flickr.com/photos/marcelrojas/)
 - [Behance](https://www.behance.net/marcelrojas2k)
+- [ArtStation](https://www.artstation.com/marcelrojas)
+- [Linkedin](https://www.linkedin.com/in/marcel-rojas)
 - [Glitch](https://www.glitch.com/@marcelrojas)
 - [Dev](https://dev.to/marcelrojas2k)
 
