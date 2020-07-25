@@ -3,7 +3,7 @@
 #### Find me on the web:
 
 - [Twitter](https://twitter.com/marcelrojas2k)
-- [Reddit](https://www.reddit.com/user/riplay98)
+- [Reddit](https://www.reddit.com/user/) (Soon)
 - [Twitch](https://www.twitch.com/) (Soon)
 - [Discord](https://www.discord.com/) (Soon)
 - [Flickr](http://www.flickr.com/photos/marcelrojas/)
