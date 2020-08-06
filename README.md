@@ -4,6 +4,7 @@
 
 - [Twitter](https://twitter.com/marcelrojas2k)
 - [Reddit](https://www.reddit.com/user/) (Soon)
+- [Patreon](https://www.patreon.com/marcelrojas)
 - [Twitch](https://www.twitch.com/) (Soon)
 - [Discord](https://www.discord.com/) (Soon)
 - [Flickr](http://www.flickr.com/photos/marcelrojas/)
