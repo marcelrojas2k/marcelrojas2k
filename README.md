@@ -12,7 +12,9 @@
 - [Behance](https://www.behance.net/marcelrojas2k)
 - [ArtStation](https://www.artstation.com/marcelrojas)
 - [SoundCloud](https://www.soundcloud.com/) (Soon)
+- [GitHub](https://github.com/marcelrojas2k/marcelrojas2k)
 - [Glitch](https://www.glitch.com/@marcelrojas)
+- [CodePen](https://codepen.io/marcelrojas)
 - [Dev](https://dev.to/marcelrojas)
 - [Linkedin](https://www.linkedin.com/in/marcel-rojas)
 
