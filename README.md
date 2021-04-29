@@ -2,7 +2,7 @@
 
 
 ## Find me on the web
-[CodePen](https://codepen.com/marcelrojas) | [Instagram](https://instagram.com/marcelrojas_) | [Foundation](https://foundation.app/marcelrojas)
+[CodePen](https://codepen.com/marcelrojas) | [Twitter](https://twitter.com/marcelrojas_) | [Instagram](https://instagram.com/marcelrojas_) | [Foundation](https://foundation.app/marcelrojas)
 
 ### Toss a coin to your witcher 🎶
 
